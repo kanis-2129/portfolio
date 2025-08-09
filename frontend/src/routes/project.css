@@ -1,0 +1,76 @@
+.proHead {
+    text-align: center;
+    color: purple;
+    font-size: 3rem;
+    margin: 2rem;
+
+}
+
+.frontend {
+    font-size: 2rem;
+    padding: 2rem;
+    color: rgb(156, 6, 156);
+}
+
+.frontendProjects {
+
+    display: flex;
+   flex-wrap: wrap;
+    gap: 5px;
+}
+
+.boxes {
+    width: 22%;
+    margin: 1rem;
+    border-radius: 10px;
+    text-align: start;
+    background-color: white;
+    box-shadow: 1px 1px 2px rgb(224, 176, 224);
+    padding: 0.5rem;
+}
+
+
+.greenden{
+   width: 15rem;
+   height: 10rem;
+   border-radius: 10px;
+   margin-left:10px ;
+}
+.title {
+    color: purple;
+    text-align: center;
+    padding: 1rem;
+}
+
+
+.titlePoint {
+    font-size: large;
+    font-weight: 500;
+    padding-bottom: 2rem;
+    color: rgb(70, 20, 70);
+    
+
+}
+
+
+
+.titlepara {
+    padding: 0.5rem;
+    font-size: medium;
+    font-weight: 700;
+    
+ 
+}
+
+.Viewbtn{
+    width: fit-content;
+    padding: 1rem;
+    margin-left: 36.5rem;
+    margin-right: 4rem;
+    margin-top:20px ;
+    margin-bottom: 20px;
+     background-color: purple;
+    color: white;
+    cursor: pointer;
+    border-radius: 15px;
+}

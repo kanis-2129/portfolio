@@ -1,0 +1,54 @@
+.portfolio{
+    scroll-behavior: smooth;
+}
+
+#intro {
+    height: calc(100vh - 4rem);
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.me {
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+}
+
+.introContent {
+
+    width: 50vw;
+    padding: 2rem;
+    font-size: 3rem;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.hello {
+    font-size: 2rem;
+}
+
+.introName {
+    color: purple;
+}
+
+.introPara {
+    font-size: medium;
+}
+
+.btn {
+    background-color: purple;
+    color: white;
+    padding: 9px;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: large;
+    margin-top: 30px;
+    width: 10rem;
+   
+}
+
+@media screen and (max-width:700px) {}

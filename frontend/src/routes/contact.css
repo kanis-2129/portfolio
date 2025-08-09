@@ -1,0 +1,62 @@
+#contact {
+    width: fit-content;
+   
+    margin: 5rem auto;
+    text-align: center;
+}
+
+#contact h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    padding: 0.5rem;
+    color: purple;
+}
+
+#contact p {
+    padding-bottom: 1rem;
+    color: rgb(190, 25, 190);
+}
+
+input {
+    width: 35rem;
+    margin-top: 1.5rem;
+    padding: 0.9rem;
+    outline: none;
+    border: solid 0.5px rgb(160, 66, 160);
+    background-color: rgb(240, 197, 240);
+    border-radius: 10px;
+
+}
+
+textarea {
+    width: 35rem;
+    margin-top: 1.5rem;
+    padding: 0.9rem;
+    outline: none;
+    border: solid 0.5px rgb(160, 66, 160);
+    background-color: rgb(240, 197, 240);
+    border-radius: 10px;
+
+}
+
+#contact button {
+    background-color: rgb(139, 16, 139);
+    padding: 0.8rem;
+    border-radius: 0.5rem;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    box-shadow: 0.5px 1px 3px black;
+    margin-top: 1rem;
+
+}
+
+.contactProfiles img {
+    width: 2rem;
+    height: 2rem;
+    margin-right: 3rem;
+    margin-left: 3rem;
+    margin-top: 2rem;
+    text-align: center;
+}

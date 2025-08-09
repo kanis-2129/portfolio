@@ -1,0 +1,20 @@
+#about{
+    width: 100uw;
+    text-align: center;
+    margin: 0 auto;
+    padding: 5rem;
+   
+}
+
+.aboutMe{
+    color: purple;
+
+}
+
+.aboutpara p{
+    padding: 2rem;
+    font-size: large;
+    color: rgb(64, 8, 64);
+
+
+}
