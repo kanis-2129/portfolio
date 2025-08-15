@@ -5,6 +5,8 @@ import Projects from "./routes/projects";
 import { Route, Routes } from "react-router-dom";
 import About from "./routes/about";
 import Contact from "./routes/contact";
+import '@fortawesome/fontawesome-free/css/all.min.css';
+
 
 
 const App = () => {

@@ -27,6 +27,13 @@
     background-color: white;
     box-shadow: 1px 1px 2px rgb(224, 176, 224);
     padding: 0.5rem;
+    transition:ease 1.5s;
+}
+
+.boxes:hover{
+ transform: scale(1.05);
+ cursor:default;
+
 }
 
 

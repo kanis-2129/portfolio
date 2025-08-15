@@ -27,7 +27,8 @@ const Contact = () => {
   }
   function send()
   {
-    axios.post("http://localhost:3000/",{
+   axios.get("http://localhost:3000",
+{
       name:name,
       email:email,
       message:message})
@@ -49,8 +50,12 @@ const Contact = () => {
         <button onClick={send}>submit</button>
 
         <div className='contactProfiles'>
-          <img src={linkedin} alt="linkedin" />
-          <img src={github} alt="github" />
+         <a href="https://www.linkedin.com/in/kaneeswari-k-1a6745292/">
+         <img src={linkedin} alt="linkedin" /></a>
+
+         <a href="https://github.com/kanis-2129">
+          <img src={github} alt="github" /></a>
+         
           <img src={insta} alt="insta" />
         </div>
       </div>

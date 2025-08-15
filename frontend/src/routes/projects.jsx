@@ -88,7 +88,7 @@ const Projects = () => {
                     <div>
                       <h1 className='title'>Actodo</h1>
                       <span className='titlePoint'>A To-Do App allows users to add, edit, delete, and mark tasks as completed
-                         — helping with daily task tracking. Using tools <strong>HTML,MERN stack</strong>
+                        — helping with daily task tracking. Using tools <strong>HTML,MERN stack</strong>
                       </span>
                     </div>
                   </div>
@@ -96,38 +96,38 @@ const Projects = () => {
                   <div className="boxes">
                     <img className='greenden' src={army} alt="army" />
                     <div>
-                    
-                    <h1 className='title'>Army book store</h1>
-                    <span className='titlePoint'>A specially designed website for selling books related to the Indian Army.
-                      Users can browse, search, add to cart, and buy books easily with a smooth shopping experience.
-                      Using tools <strong>React,TailwindCSS,JS</strong>
 
-                    </span>
-                    
-                   </div>
+                      <h1 className='title'>Army book store</h1>
+                      <span className='titlePoint'>A specially designed website for selling books related to the Indian Army.
+                        Users can browse, search, add to cart, and buy books easily with a smooth shopping experience.
+                        Using tools <strong>React,TailwindCSS,JS</strong>
+
+                      </span>
+
+                    </div>
 
                   </div>
 
                   <div className="boxes">
                     <img className='greenden' src={bulk} alt="actodo" />
                     <div>
-                    <h1 className='title'>BulkMail</h1>
-                    <span className='titlePoint'>Bulk Mail allows users to send a single email to many recipients
-                       at once — commonly used for marketing, announcements, or notifications.
-                       Using tools <strong>MERN stack, Nodemailer</strong>
-                    </span>
-                    
-</div>
+                      <h1 className='title'>BulkMail</h1>
+                      <span className='titlePoint'>Bulk Mail allows users to send a single email to many recipients
+                        at once — commonly used for marketing, announcements, or notifications.
+                        Using tools <strong>MERN stack, Nodemailer</strong>
+                      </span>
+
+                    </div>
                   </div>
 
                   <div className="boxes">
                     <img className='greenden' src={blog} alt="actodo" />
                     <div>
-                    <h1 className='title'>Blog Portfolio</h1>
-                    <span className='titlePoint'>Admin can add new blog articles with titles, images, and descriptions.
-                      Blogs are stored using Firebase, MongoDB.Like, comment, or share buttons to improve 
-                      interactivity. Using tools <strong>MERN stack, Nodemailer</strong>
-                    </span>
+                      <h1 className='title'>Blog Portfolio</h1>
+                      <span className='titlePoint'>Admin can add new blog articles with titles, images, and descriptions.
+                        Blogs are stored using Firebase, MongoDB.Like, comment, or share buttons to improve
+                        interactivity. Using tools <strong>MERN stack, Nodemailer</strong>
+                      </span>
                     </div>
 
                   </div>
@@ -138,7 +138,7 @@ const Projects = () => {
             )
           }
         </div>
-    </div>
+      </div>
     </div>
 
 
